@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class KeycloakSpringBootApplication {
 
 	public static void main(String[] args) {
+		//TESTING COmmit
 		SpringApplication.run(KeycloakSpringBootApplication.class, args);
 	}
 
